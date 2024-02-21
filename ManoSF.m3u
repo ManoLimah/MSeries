@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
+#EXTm3u
 
 ################################################################# INFORMAÇÕES
 
@@ -11,6 +11,31 @@ http://manoplus.ddns.net/mano.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST D 12horas",Whats 75991634025
 http://manoplus.ddns.net/mano.mp4
  
+################################################################# HOUSE OF NINJAS S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E01
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E02
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E03
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E04
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E05
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E06
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E07
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E08
+http://shd9.mflixhd.xyz/token/SHD9/210098/1x8.mp4
 
 ################################################################# BOM DIA, VERÔNICA S01
 
@@ -1218,6 +1243,9 @@ http://shd9.mflixhd.xyz/token/SHD9/196474/1x12.mp4
 
 ############################################################################ FILMES
 
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mamonas Assassinas O Filme
+http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt29713426.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Leitor
 http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
 
@@ -1318,75 +1346,92 @@ http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
 
 ############################################################################ Novela | RENASCER 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Cap 01 22/01
 https://x.xonados.com/22-01-2024.mp4?552201
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Cap 02 23/01
 https://x.xonados.com/23-01-2024.mp4?552301
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Cap 03 24/01
 https://x.xonados.com/24-01-2024.mp4?552401
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Cap 04 25/01
 https://x.xonados.com/25-01-2024.mp4?52501
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Cap 05 26/01
 https://x.xonados.com/26-01-2024.mp4?52601
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 6
-https://x.xonados.com/26-01-2024.mp4?52701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 06 27/01
+https://x.xonados.com/27-01-2024.mp4?52701
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 07 29/01
 https://x.xonados.com/29-01-2024.mp4?552901
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 08 30/01
 https://x.xonados.com/30-01-2024.mp4?53001
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 09 31/01
 https://x.xonados.com/31-01-2024.mp4?53101
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 10 01/02
 https://x.xonados.com/01-02-2024.mp4?50102
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 11 02/02
 https://x.xonados.com/02-02-2024.mp4?50202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 12 03/02
 https://x.xonados.com/03-02-2024.mp4?50302
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 13 05/02
 https://x.xonados.com/05-02-2024.mp4?50502
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 14 06/02
 https://x.xonados.com/06-02-2024.mp4?50602
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 15 07/02
 https://x.xonados.com/07-02-2024.mp4?50702
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 16 08/02
 https://x.xonados.com/08-02-2024.mp4?50802
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 17 09/02
 https://x.xonados.com/09-02-2024.mp4?50902
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 18 10/02
 https://x.xonados.com/10-02-2024.mp4?51002
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 19 12/02
 https://x.xonados.com/12-02-2024.mp4?51202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 20 13/02
 https://x.xonados.com/13-02-2024.mp4?51302
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 21 14/02
 https://x.xonados.com/14-02-2024.mp4?51402
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 22 15/02
 https://x.xonados.com/15-02-2024.mp4?51502
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 23
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 23 16/02
 https://x.xonados.com/16-02-2024.mp4?51602
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 24 17/02
 https://x.xonados.com/17-02-2024.mp4?51702
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 25 19/02
+https://x.xonados.com/19-02-2024.mp4?52402
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 26 20/02
+https://x.xonados.com/20-02-2024.mp4?52002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 27 21/02
+https://x.xonados.com/21-02-2024.mp4?52102
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 28 22/02
+https://x.xonados.com/22-02-2024.mp4?52202
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 29 23/02
+https://x.xonados.com/23-02-2024.mp4?52302
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Cap 30 17/02
+https://x.xonados.com/24-02-2024.mp4?52402
